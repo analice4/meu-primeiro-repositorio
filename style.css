@@ -1,0 +1,76 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    border: 100px;
+    width: 300px;
+    height: 630px;
+    border-radius: 15px;
+    margin-top: 100px;
+    background-color: black;
+    box-shadow: rgba(0, 0,0, 0.3) 0px 19px 38px, rgba(0, 0,0, 0.22) 0px 15px 12px;
+}
+
+.imagem{
+    display: flex;
+    justify-content: center;
+}
+
+.perfume {
+  width: 300px;
+  height: 300px;
+border-radius: 5%;
+   margin-top: 5px;
+}
+
+.text-main{
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.desc{
+    text-align: center;
+    color: #fff;
+    font-weight: 200;
+    text-align: center;
+    font-size: 20px;
+}
+
+.preço{
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.btn{
+    padding: 10px 30px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 10px;
+    border: none;
+    transition: 1s;
+    background-color: rgb(173, 95, 218);
+    color: black;
+    
+}
+
+.btn:hover{
+transition: 1s;
+color: black;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    
+}
+
+
+
